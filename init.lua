@@ -31,14 +31,15 @@ Config = {
             qb = 'qb-inventory',
             ps = 'ps-inventory',
             esx = 'es_extended',
-            qs = 'qs-inventory'
+            qs = 'qs-inventory',
+            codem = 'codem-inventory'
         },
         core = {
             nd = 'ND_Core',
             qb = 'qb-core',
             ox = 'ox_core',
             qbx = 'qbx_core',
-            esx = 'es_extended'
+            esx = 'es_extended',
         },
         context = {
             qb = 'qb-menu',
@@ -60,11 +61,13 @@ Config = {
             qb = 'none',
             ox = 'ox_lib',
             esx = 'none',
+            codem = 'codem-notification'
         },
         textui = {
             ox = 'ox_lib',
             qb = 'none',
             esx = 'esx_textui',
+            codem = 'codem-textui'
         }
     },
 
